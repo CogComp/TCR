@@ -1,5 +1,8 @@
+# Dataset for Joint Reasoning for Temporal and Causal Relations
+
 This repo holds the dataset used in the paper of *Joint Reasoning for Temporal and Causal Relations* by [Qiang Ning](http://qiangning.info), Zhili Feng, Hao Wu, and Dan Roth, appeared in Proceedings of *the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)* [pdf](http://cogcomp.org/page/publication_view/835). If you find this dataset useful, please kindly cite the paper using the following bibtex:
 
+## Citation
 ```
 @InProceedings{P18-1212,
   author = 	"Ning, Qiang and Feng, Zhili and Wu, Hao and Roth, Dan",
